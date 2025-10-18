@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1d3ab665b6bcc0d43324fa50b9b040af6b6cc67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+864003d65c7ba898ffad2a6caa8da2ec58b72437")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

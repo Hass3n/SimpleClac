@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E44C9020-BEB1-400F-8B30-5C790029BC94}|Clac\\Clac.csproj|c:\\users\\hassan reda\\desktop\\simple calictltor\\clac\\clac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E44C9020-BEB1-400F-8B30-5C790029BC94}|Clac\\Clac.csproj|solutionrelative:clac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89E4CB-6CCC-4C4E-8F19-26404DBECBAC}|Calc.Tests\\Calc.Tests.csproj|c:\\users\\hassan reda\\desktop\\simple calictltor\\clac\\calc.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89E4CB-6CCC-4C4E-8F19-26404DBECBAC}|Calc.Tests\\Calc.Tests.csproj|solutionrelative:calc.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Hassan Reda\\Desktop\\Simple Calictltor\\Clac\\Calc.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Calc.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Hassan Reda\\Desktop\\Simple Calictltor\\Clac\\Calc.Tests\\UnitTest1.cs*",
+              "RelativeToolTip": "Calc.Tests\\UnitTest1.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T20:56:28.002Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Clac\\Program.cs",
               "ToolTip": "C:\\Users\\Hassan Reda\\Desktop\\Simple Calictltor\\Clac\\Clac\\Program.cs",
               "RelativeToolTip": "Clac\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T19:04:07.442Z",
               "EditorCaption": ""

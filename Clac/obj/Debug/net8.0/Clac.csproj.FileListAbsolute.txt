@@ -1,0 +1,15 @@
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\bin\Debug\net8.0\Clac.exe
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\bin\Debug\net8.0\Clac.deps.json
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\bin\Debug\net8.0\Clac.runtimeconfig.json
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\bin\Debug\net8.0\Clac.dll
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\bin\Debug\net8.0\Clac.pdb
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.AssemblyInfoInputs.cache
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.AssemblyInfo.cs
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.csproj.CoreCompileInputs.cache
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.sourcelink.json
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.dll
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\refint\Clac.dll
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.pdb
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\Clac.genruntimeconfig.cache
+C:\Users\Hassan Reda\Desktop\Simple Calictltor\Clac\Clac\obj\Debug\net8.0\ref\Clac.dll
